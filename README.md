@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Pranav Kulkarni 👋
 
-<!--
-**PranavKulkarni09/PranavKulkarni09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a VLSI/ASIC Engineer and I am interested in Design Verification, Physical Design, and RTL Design.
 
-Here are some ideas to get you started:
+### Currently Working on
+Flash Attention hardware accelerator RTL and physical implementation using Siemens Catapult
+AI-agent workflows for automated RTL and UVM testbench generation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I use
+Programming Languages/HDL: SystemVerilog, Verilog, UVM, Python, TCL
+Industry EDA Tooles: Synopsys VCS, IC Compiler II (ICC2) Primetime | Cadence (Virtuoso, Innovus, Genus) | Calibre (DRC/LVS) | Xilinx Vivado | Verilator
+
+### Reach me
+LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/pranavkulkarnism)
