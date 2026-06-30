@@ -11,4 +11,4 @@ Programming Languages/HDL: SystemVerilog, Verilog, UVM, Python, TCL
 Industry EDA Tooles: Synopsys VCS, IC Compiler II (ICC2) Primetime | Cadence (Virtuoso, Innovus, Genus) | Calibre (DRC/LVS) | Xilinx Vivado | Verilator
 
 ### Reach me
-LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/pranavkulkarnism)
+[LinkedIn](https://www.linkedin.com/in/pranavkulkarnism)
