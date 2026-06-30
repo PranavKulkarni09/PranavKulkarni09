@@ -37,7 +37,3 @@ Cadence Virtuoso, Innovus, Genus
 Calibre DRC/LVS, Xilinx Vivado, Verilator
 
 ---
-
-### Reach Me
-
-[LinkedIn](https://www.linkedin.com/in/pranavkulkarnism)
