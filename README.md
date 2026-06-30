@@ -23,13 +23,12 @@ I enjoy working on digital design flows, verification environments, hardware acc
 
 * Flash Attention hardware accelerator RTL and physical implementation
 * AI-agent workflows for automated RTL and UVM testbench generation
-* UVM-based verification projects for digital designs
 
 ---
 
 ### Tools I Use
 
-**Programming / HDL:**
+**Programming Languages/HDL:**
 SystemVerilog, Verilog, UVM, Python, TCL
 
 **EDA Tools:**
